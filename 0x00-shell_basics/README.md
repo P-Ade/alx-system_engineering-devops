@@ -1,1 +1,1 @@
-shows the path of current working directory
+shows the path of the current working directory
