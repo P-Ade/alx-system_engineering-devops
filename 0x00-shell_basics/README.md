@@ -1,1 +1,1 @@
-shows the path of the current working directory
+Task 0, where am i?
