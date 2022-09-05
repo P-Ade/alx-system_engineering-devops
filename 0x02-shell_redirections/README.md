@@ -1,1 +1,1 @@
-shows the path of the current working directory
+script showing current working directory
